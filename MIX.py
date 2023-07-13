@@ -1,1 +1,3 @@
-import MIX.o
+import os
+import MIX
+MIX.loging()
