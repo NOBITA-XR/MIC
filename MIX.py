@@ -1,2 +1,2 @@
 import os
-import MIX
+import MIX.o
